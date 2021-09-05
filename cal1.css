@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url("https://graphicriver.img.customer.envatousercontent.com/files/86232890/Calculator%20a%20background590.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=c0882fa83dab39e4597f4d2f55bd9642");
+  background-color: grey;
 }
 body::before {
   content: "";
